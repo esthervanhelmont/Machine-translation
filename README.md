@@ -1,6 +1,3 @@
-# Machine-translation
-ToU x Udacity Machine Translation
-
 # Machine Translation with Deep Learning  
 ### English to French Neural Machine Translation  
 
